@@ -1,0 +1,166 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}body{
+    color:white;
+    margin:0px;
+    padding:0px;
+    background:url('../img/home.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; /*To stop background moving while zoom in and out*/
+}
+.left{
+display:inline-block;
+position:absolute;
+left:34px;
+top:20px; 
+}
+.mid{
+    /* TRBL */
+  /* padding: 0px 0px 0px 73px;  */
+ display:block;
+ width: 57%;
+ margin: 20px auto;
+ /* border:2px solid black; */
+}
+.right{
+
+    position:absolute;
+    display:inline-block;
+    right:14px;
+    top: 20px; 
+}
+.navbar{
+    display:inline-block;
+
+}
+.navbar li{
+    font-size:19px;
+    display:inline-block;
+    list-style-type: none;
+}
+.navbar li a{
+    color:white;
+    text-decoration: none;
+    padding: 34px 25px; /*23*/
+}
+.navbar li a:hover{
+    text-decoration:underline;
+    color:rgb(166, 164, 164);
+}
+.navbar li a.active{
+    text-decoration:underline;
+    color:rgb(166, 164, 164);
+}
+.left img{
+    margin:0px 0px 0px 18px;
+    width:75px;
+    filter:invert(100%);
+}
+.left div{
+    margin:0px 0px 0px 18px;
+    text-align:center;
+    line-height:25px;
+    font-size:17px;
+}
+.btn{
+    margin:7px 2px;
+    color: white;
+    background-color:rgb(52, 51, 51);
+    padding: 12px 14px;
+    border-radius:8px;
+    font-size:15px; 
+    font-weight: bold;
+    cursor:pointer; /*to get pointer when cursor is over the button*/
+    
+}
+.btn:hover{
+    background-color:rgb(166, 164, 164);
+    color:black;
+    transition-delay: 6ms;
+}
+.container{
+    border:2px grey solid;
+    margin: 58px 80px;
+    padding: 25px 150px; /*35 150*/
+    width:18%;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 5px;
+
+}
+.form-group input{
+   
+     display:block;
+     width:200px;
+     padding:6px;
+     border:2px solid black;
+     margin: 3px auto;
+     font-size: 10px;
+     border-radius: 5px;
+}
+.container h1{
+    text-align:center;
+}
+.form-group button{
+    display:block;
+    width:50%;
+    margin:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
