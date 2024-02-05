@@ -1,1 +1,1 @@
-I have designed and developed a professional Gym Services website using HTML and CSS. The website features a user-friendly navigation menu with key sections including 'Home,' 'About Us,' 'Fitness Calculator,' and 'Contact Us,' providing comprehensive information for visitors.
+I have designed and developed a professional Gym Services website using HTML and CSS for Desktop. The website features a user-friendly navigation menu with key sections including 'Home,' 'About Us,' 'Fitness Calculator,' and 'Contact Us,' providing comprehensive information for visitors.
